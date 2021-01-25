@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "LiFor Blog"
   spec.version       = "0.1.0"
-  spec.authors       = ["Robert F]
+  spec.authors       = ["Robert F"]
   spec.email         = ["lifor0516@gmail.com"]
 
-  spec.summary       = %q{A Blog about this and that. Small projects I'm interested in.}
+  spec.summary       = "{A Blog about this and that. Small projects Im interested in.}"
   spec.homepage      = "https://github.com/lifor0516"
   spec.license       = "MIT"
 
