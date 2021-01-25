@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Robert F]
   spec.email         = ["lifor0516@gmail.com"]
 
-  spec.summary       = %q{A Blog about his and that. Small projects I'm interested in.}
+  spec.summary       = %q{A Blog about this and that. Small projects I'm interested in.}
   spec.homepage      = "https://github.com/lifor0516"
   spec.license       = "MIT"
 
